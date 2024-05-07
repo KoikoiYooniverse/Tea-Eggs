@@ -1,11 +1,12 @@
 h1{
 text-align: center;
 background-color: DarkGrey;
-color: red;
+color: Brown;
 }
 
 p{
-background-color:Azure;
+text-align: center;
+background-color: CadetBlue;
 }
 
 body{
